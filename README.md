@@ -17,3 +17,5 @@ cuarta update ...
 ESTA ACTUALIZACION ES VIA WEB 
 
 ACTUALIZANDO INFO HOY 29/08 001010121
+
+Ahora vamos enviar de local a GITHUB, 1.2
